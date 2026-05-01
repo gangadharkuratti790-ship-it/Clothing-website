@@ -1,0 +1,44 @@
+.nave{
+    display: flex;
+  gap: 20px;
+}
+.nave1{
+    margin: 20px;
+}
+.nave2{
+    margin: 20px;
+}
+.nave3{
+    margin: 20px;
+}
+.third{
+
+}
+.guru{
+    display: flex;
+    gap: 20px;
+}
+.guru1{
+    margin: 20px;
+}
+.guru2{
+    margin: 20px;
+}
+.guru3{
+    margin: 20px;
+}
+.manu{
+    display: flex;
+}
+.manu1{
+    margin: 20px;
+}
+.manu2{
+    margin: 20px;
+}
+.manu3{
+    margin: 20px;
+}
+.me1{
+    margin-left: 1000px;
+}
