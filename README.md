@@ -47,5 +47,4 @@ https://gangadharkuratti790-ship-it.github.io/Clothing-website/
 
 ⭐ If you like this project, consider giving it a star!
 
-## Live Demo
-https://gangadharkuratti790-ship-it.github.io/Clothing-website/
+
