@@ -42,8 +42,6 @@ This project was created as part of a **college assignment** to practice fronten
 * Payment gateway
 
 ---
-## Live demo
-https://gangadharkuratti790-ship-it.github.io/Clothing-website/
 
 ⭐ If you like this project, consider giving it a star!
 
